@@ -1,3 +1,3 @@
 (function(){
-    alert(123);
+    alert('hajdfhasjf');
 })();
