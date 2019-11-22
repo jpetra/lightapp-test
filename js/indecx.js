@@ -1,3 +1,5 @@
 (function(){
-    alert('hajdfhasjf');
+
+    alert(332);
+
 })();
